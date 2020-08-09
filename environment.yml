@@ -1,0 +1,5 @@
+name: active-bolt
+channels:
+  - conda-forge
+dependencies:
+  - vpython
