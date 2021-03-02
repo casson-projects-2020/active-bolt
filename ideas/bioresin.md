@@ -60,6 +60,10 @@ queima)
 
 Talvez borbulhar ozonio?
 
+<h3>Usar epoxi comercial</h3>
+
+Outra alternativa seria usar resina epoxy comercial + cera de oleo de castor. Como a biodegradabilidade é decorrente da quebra do oleo de castor,
+é possivel que o plastico resultante (se resultar algum) seja biodegradavel.
 
 <h1>Hipotese: Amilopectina tornada insoluvel</h1>
 
