@@ -54,6 +54,13 @@ Pra melhorar isso, preciso de um doador de oxigenio q nao gere agua, ai pode-se 
 o bicarbonato de sodio - e provavelmente conseguir tambem uma porcentagem maior de grupos epoxi, q nao serao 
 hidrolizados.
 
+Talves Peroxido de Sodio, peroxido de calcio, de bario, de magnesio, de zinco, bromato de potassio (este ultimo é o que deve
+ser investigado primeiro pq tem a mesma classe do peroxido de hidrogenio - capaz de aumentar muito a taxa de 
+queima)
+
+Talvez borbulhar ozonio?
+
+
 <h1>Hipotese: Amilopectina tornada insoluvel</h1>
 
 É possivel tornar a amilopectina insoluvel? Seria a solucao ideal
