@@ -67,4 +67,11 @@ Outra alternativa seria usar resina epoxy comercial + cera de oleo de castor. Co
 
 <h1>Hipotese: Amilopectina tornada insoluvel</h1>
 
-É possivel tornar a amilopectina insoluvel? Seria a solucao ideal
+Aparentemente vc trata o amido (solucao aquosa 1:2 ate 1:40 com agitacao vigorosa, entre 35o e 70o, por 10 mins ate uma hora ou mais) com amilopectinase, 
+deixa decantar, aplicar nos polissacarideos um plastificador (pode ser oleo vegetal ou glicerol - entre 5% ate 60% da massa de polissacarideos, indo do mais
+quebradiço e forte para o mais maleavel e fraco), depois aquecer a mistura entre 70oC e 100oC entre 10 e 30 minutos.
+
+Essa solução esta patenteada até 2032.
+
+https://patents.google.com/patent/WO2013190345A1/en
+
