@@ -75,3 +75,9 @@ Essa solução esta patenteada até 2032.
 
 https://patents.google.com/patent/WO2013190345A1/en
 
+Uma abordagem possivel seria extrair com agua morna (ou proxima de 100o mas nao fervendo uma vez que isso polimeriza a amilose) e deixar a agua esfriar.
+
+A ideia é que a amilose é soluvel, mas a amilopectina nao. No entanto, estudos sobre o assunto mostram que uma parcela da amilopectina é dissolvida tambem, provavelmente por associação mecanica com moleculas de amilose.
+
+Imagino se uma centrifugação severa nao melhoraria o perfil.
+
