@@ -20,7 +20,9 @@
 
 - kit de luneta com lupas (montagem parecida com a do manual do mundo, mas com ralo de pia, etc) 
 
-- kit de mecanica, alavanca, engrenagem (redução), guindaste, catapulta ... q mais?
+- kit de mecanica, alavanca, engrenagem (redução), guindaste, catapulta ... e pode-se colocar um pendulo com Lissajous e desenho com folha magnetica para fazer 
+   magneto de geladeira e pó de ferro (pode-se ate ter um pequeno aparelho capaz de nos dar o controle sobre o lissajous, e poder subtituir por tinta também
+   para fazer desenhos (isso pode ser até um kit separado)
 
 - kit dentista com moldagem do dente, criação de caries e tratamento
 
