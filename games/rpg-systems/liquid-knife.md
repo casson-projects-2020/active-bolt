@@ -44,14 +44,16 @@ Os jogadores pagam os usos com cubos de recursos, e também adquirem capacidades
 <h2>Recursos</h2>
 Os recursos são representados por cubinhos coloridos (cada cor representa um tipo) ou qualquer tipo de peça pequena.
 
+Os jogadores coletam recursos nas cenas, e gastam recursos para pagar o uso de capacidades ou comprar capacidades que ainda não tenham.
+
 Os recursos existentes são:
 - Mana
 - Estamina
-- Mistico
+- Anima
 - Arte
 - Fortuna
-- Mal (evil)
 - Bem (good)
+- Mal (evil)
 
 <h2>Interações</h2>
 
