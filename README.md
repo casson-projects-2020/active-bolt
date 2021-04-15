@@ -12,4 +12,4 @@ http://mybinder.org/v2/gh/casson-projects-2020/active-bolt/master?filepath=ref/s
 
 ou
 
-http://mybinder.org/v2/gh/casson-projects-2020/active-bolt/master?filepath=3d_engines_essays/striped-impulse.ipynb
+http://mybinder.org/v2/gh/casson-projects-2020/active-bolt/master?filepath=3d_engines_essays/skin-fork-3D.ipynb
