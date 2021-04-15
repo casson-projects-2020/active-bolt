@@ -17,13 +17,13 @@ Embora poucas, deve ser possível combinar as regras de formas complexas
 As regras devem ser feitas de forma a auxiliar a criação dos momentos de jogo.
 
 <h1>Regras</h1>
-O sistema é baseado nos conceitos de <b>capacidades</b>, <b>recursos</b>, <b>Padrões de personagem</b>, <b>interações</b> e <b>juras</b>.
+O sistema é baseado nos conceitos de <b>capacidades</b>, <b>primais</b>, <b>padrões de personagem</b>, <b>interações</b> e <b>juras</b>.
 
 <h2>Capacidades</h2>
 Todas as coisas que um jogador pode fazer devem estar definidas como <b>capacidades</b>, e deve existir uma ficha explicando como a capacidade funciona. 
 Caso um jogador, durante um jogo, queira fazer algo para o qual não exista uma capacidade em ficha, o mestre e o jogador devem improvisar uma ficha.
 
-As capacidades devem ser fundamentais, não se devem criar novas capacidades que possam ser representadas por outras existentes (axioma 1).
+As capacidades devem ser fundamentais, não se deve criar novas capacidades que possam ser representadas por outras existentes (axioma 1).
 
 Então por ex nao se deve criar "cavalgar" e "andar de camelo", mas sim "montar animais" e onde se concordar que conhecimentos diferentes são necessarios
 (como montar um cavalo, um camelo, ou uma aguia gigante, etc) criam-se especializações na ficha (a forma de fazer isso é descrita na seção correspondente).
@@ -39,14 +39,15 @@ Nem todas precisam ter modos livres, mas o modo livre significa que não é nece
 O uso avançado lista quanto deve ser pago para usa-la nessa modalidade. Os usos avançados podem exigir uma ordem de uso, sendo cada vez mais caros, e podem
 ter restrições, como por exemplo nao se pode usar o nivel 2 antes de ter usado o 1 dez vezes (TODO: sera? tem q ter um sistema de evolução consistente em todos?)
 
-Os jogadores pagam os usos com cubos de recursos, e também adquirem capacidades comprando-as com cubos.
+Os jogadores pagam os usos com cubos de primais, e também adquirem capacidades comprando-as com cubos.
 
-<h2>Recursos</h2>
-Os recursos são representados por cubinhos coloridos (cada cor representa um tipo) ou qualquer tipo de peça pequena.
+<h2>Primais</h2>
+As primais são associadas a caracteristicas como força, inteligencia, carater, etc, e  são representados por cubinhos coloridos 
+(cada cor representa um tipo) ou qualquer tipo de peça pequena.
 
-Os jogadores coletam recursos nas cenas, e gastam recursos para pagar o uso de capacidades ou comprar capacidades que ainda não tenham.
+Os jogadores coletam primais nas cenas, e gastam primais para pagar o uso de capacidades ou comprar capacidades que ainda não tenham.
 
-Os recursos existentes são:
+As primais são:
 - Mana
 - Estamina
 - Anima
@@ -93,7 +94,7 @@ Uma vez encerrado o tempo, mesmo q todos os dados nao tenham sido posicionados, 
 
 Tendo sido feitas as atribuiçoes, viram-se as cartas e resolve-se os efeitos. 
 Cada carta tem regras especificas (algumas são vagas e nesse caso devem ser interpretadas pelo Mestre e também pelos jogadores), 
-e as cartas podem solicitar valores nos dados do pool (por ex, "com parte que tiver um 5 no pool acontece ..."), recursos, estados de saude,
+e as cartas podem solicitar valores nos dados do pool (por ex, "com parte que tiver um 5 no pool acontece ..."), primais, estados de saude,
 ou qualquer outra condição.
 
 Cartas de propriedade de um grupo dizem se afetam os donos, ou as vezes dao a eles a escolha de dizer que sofre o efeito (cartas em empate
