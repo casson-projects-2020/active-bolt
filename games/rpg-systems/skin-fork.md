@@ -1,4 +1,4 @@
-<h1>Skin Fork</h1>
+# Skin Fork
 
 É o nome codigo de um sistema de RPG.
 
@@ -16,10 +16,10 @@ Embora poucas, deve ser possível combinar as regras de formas complexas
 <b>4o axioma - as regras devem enriquecer o jogo</b><br/>
 As regras devem ser feitas de forma a auxiliar a criação dos momentos de jogo.
 
-<h1>Regras</h1>
+# Regras
 O sistema é baseado nos conceitos de <b>capacidades</b>, <b>primais</b>, <b>padrões de personagem</b>, <b>interações</b> e <b>juras</b>.
 
-<h2>Capacidades</h2>
+## Capacidades
 Todas as coisas que um jogador pode fazer devem estar definidas como <b>capacidades</b>, e deve existir uma ficha explicando como a capacidade funciona. 
 Caso um jogador, durante um jogo, queira fazer algo para o qual não exista uma capacidade em ficha, o mestre e o jogador devem improvisar uma ficha.
 
@@ -41,7 +41,7 @@ ter restrições, como por exemplo nao se pode usar o nivel 2 antes de ter usado
 
 Os jogadores pagam os usos com cubos de primais, e também adquirem capacidades comprando-as com cubos.
 
-<h2>Primais</h2>
+## Primais
 As primais são associadas a caracteristicas como força, inteligencia, carater, etc, e  são representados por cubinhos coloridos 
 (cada cor representa um tipo) ou qualquer tipo de peça pequena.
 
@@ -56,7 +56,7 @@ As primais são:
 - Bem (good)
 - Mal (evil)
 
-<h2>Interações</h2>
+## Interações
 
 Todas as vezes que existir uma interação (q pode ser entre jogadores, entre PCs e NPCs, ou entre jogadores e objetos, etc) o sistema de interações tem que ser
 utilizado.
@@ -119,3 +119,72 @@ Então, após se decidir numa cena que a interação é necessária, os passos s
 A interação continua numa proxima rodada até que todas as partes resolvam parar, ou que algum efeito das proprias cartas pare a interação.
 
 Para continuar descartam-se as cartas da fila anterior, devolvem-se os dados, posicionam-se novas cartas e o processo se repete. 
+
+### Interpretando resultados
+A interpretação de resultados vagos ou dubios pode ser feita pelo Mestre ou pelos jogadores, mas tem que seguir as regras. Se uma carta diz algo como 
+"alguma coisa sai ligeiramente errado", ou uma "alguma coisa sai errado" é uma carta fraca, os jogadores podem sugerir o que, mas tem que ser algo
+que realmente saiu errado - as sugestões que obviamente tentarem tirar os jogadores de problemas indicados pelos fluxos não devem ser usadas.
+
+A palavra final é sempre do mestre.
+
+### Fluxos
+Existem (? TODO: quantos tipos?) tipos de fluxos:
+
+- Ação
+- Sorte 
+- Mente
+- Tempo
+- Destino
+- Balanço
+
+#### Ação
+Fluxos de ação interferem com tentativas de se realizar alguma coisa. Elas falam sobre se aquilo que se quer fazer foi bem sucedido, se falhou, se ocorre
+algo inesperado.
+
+Exemplos:
+- Funciona, mas...
+- Funcionou?
+- O resultado foi...
+
+#### Sorte
+Fluxos de sorte falam sobre como eventos que não se pode contar podem melhorar ou piorar uma situação.
+
+Exemplos:
+- Boa sorte
+- Má sorte
+- A sorte foi...
+
+#### Mente
+Fluxos da mente interferem com tarefas mentais de forma semelhante a como a Ação interfere com tarefas fisicas.
+
+Exemplos:
+- Distração
+- Idéia
+- Bloqueio
+- Engano
+
+#### Tempo
+Fluxos de tempo falam sobre a passagem do tempo, se coisas devem continuar, se são acabam, se são interrompidas, etc.
+
+Exemplos:
+- Interrupção
+- Fim
+- Atraso
+- Pode acabar agora, mas...
+
+#### Destino
+Fluxos de destino falam sobre consequencias duradouras.
+
+Exemplos:
+- Catastrofe
+- Morte
+
+#### Balanço
+Fluxos de balanço falam para qual lado da interação tendem os acontecimentos.
+
+Exemplos:
+- Reviravolta
+
+
+
+
