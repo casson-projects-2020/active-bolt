@@ -80,10 +80,13 @@ Simultaneamente, o mestre (ou outro jogador em caso de disputas) deve posicionar
 (qualquer acidente que movimente os dados de uma parte de forma que não se saiba mais os valores da rodada impedem que a parte coloque dados nas
 cartas - os dados ficam todos fora dela, no pool, com os valores que tiverem)
 
+Dados que não tenham sido colocados em cartas (opcionalmente ou por falta de tempo ou acidente) são considerados ainda "o pool" e podem afetar as
+regras. Dados posicionados sobre as cartas nao são considerados no pool.
+
 Uma vez encerrado o tempo, mesmo q todos os dados nao tenham sido posicionados, resolve-se a interação seguindo os passos:
 
 - Cartas com mais dados de um lado do que do outro são "propriedade" da parte que colocou mais dados. 
-    Os dados da outra parte sao removidos e colocados de volta no pool, sem que se alterem seus valores
+    Nenhum dado no entanto deve ser removido e colocados de volta no pool, pq a quantidade de dados e diferença entre elas pode influenciar as regras
 - Cartas com dados somente de uma parte também são de propriedade dela
 - Cartas em empate são consideradas agindo sobre os dois grupos
 - Cartas vazias são consideradas "cartas fracas"
@@ -109,7 +112,7 @@ Então, após se decidir numa cena que a interação é necessária, os passos s
 - jogar os dados
 - iniciar a contagem de tempo
 - posicionar os dados
-- atribuir as cartas
+- atribuir as cartas no final do tempo
 - ler e resolver as cartas
 
 A interação continua numa proxima rodada até que todas as partes resolvam parar, ou que algum efeito das proprias cartas pare a interação.
