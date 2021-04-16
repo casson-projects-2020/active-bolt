@@ -26,7 +26,13 @@ A tampa deve ser fixada sobre uma base que servirá como suporte para tubulaçã
 TODO: 
 
 ### Vacuometro simplificado
-A tubulação conectará a camara a um 
+A tubulação conectará a camara a um fole de plastico que fica dentro de um compartimento com uma estrutura com graduação 
+presa internamente.
+
+Quando o ar vai sendo retirado, o fole colapsa e a graduação desce dentro do compartimento, dessa forma indicando o nivel do vacuo.
+
+O fole pode ser retirado de cornetas de brinquedo de R$ 4,00 (ou a corneta pode ser usada sem modificacao para nao jogar
+peças de plastico fora).
 
 ### Tubulação
 Será uma tubulação feita de pequenos tubos de plástico. Uma opção é usar tubos de caneta, que são bem baratos (menos de R$ 0,50 por tubo).
@@ -43,6 +49,10 @@ As válvulas são compostas de:
 Bolas de gude custam menos de R$ 0,40, os potinhos menos de R$ 0,30 e a mesma coisa para os aneis, logo cada valvula custa proximo de R$ 1,00
 
 ### Bomba de ar manual
-Pode ser uma bomba simples de coisas como kits para fechar sacos plasticos a vacuo. A bomba pode ser encontrada por R$ 
+Pode ser uma bomba simples de coisas como kits para fechar sacos plasticos a vacuo. A bomba pode ser encontrada por R$ 12,00 mas como é o item mais caro
+do conjunto pode-se estudar montar uma. Como as valvulas do sistema vao cuidar de remover o ar, a bomba pode ser uma fole ou uma pera de borracha.
+
+Uma buzina sanfona de brinquedo custa R$ 8,50 e a corneta pode ser cortada para servir de base.
+Uma seringa de confeiteiro custa R$ 9,00.
 
 
