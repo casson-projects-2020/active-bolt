@@ -2,5 +2,7 @@ name: active-bolt
 channels:
   - conda-forge
 dependencies:
-  - vpython
+  - numpy
   - pandas
+  - matplotlib
+  - shapely
