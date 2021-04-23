@@ -34,7 +34,8 @@ Então por ex nao se deve criar "cavalgar" e "andar de camelo", mas sim "montar 
 
 Outro exemplo: não se deve criar "mecatronica", mas sim o jogador combinar "mecânica" e "eletronica".
 
-As capacidades tem modos de uso: pessimo, ruim, medio, bom, excelente. O jogador que tem a ficha começa no "medio".
+As capacidades tem formas de uso: pessimo, ruim, medio, bom, excelente. O jogador que tem a ficha começa no "medio".
+Elas também tem duas modalidades de uso, livre e avançado.
 
 ### Modo livre
 Considera-se que qualquer um pode fazer qualquer coisa no nivel "ruim" (ou seja, o jogador que não tem a ficha começa no "ruim"), 
@@ -47,9 +48,10 @@ de bem-sucedido, mas a palavra final é do mestre) o jogador ganha a ficha (e po
 Na ficha deve existir, na area "ruim", a seção "(geral)", e isso indica uso livre. Se ela nao existir, o uso livre é proibido.
 
 Por ex, em:
-    + Natação
-    + ruim (geral): vc engole muita agua, -1 saúde, morte é possível (primais)
-    + ruim: vc engole agua, -1 de saude é possivel (primais)
+
+    Natação
+     ruim (geral): vc engole muita agua, -1 saúde, morte é possível (primais)
+     ruim: vc engole agua, -1 de saude é possivel (primais)
 
 É permitido então nadar a qualquer um como modo livre da natação, mas existe risco de vida (mais sobre saúde e primais adiante).
 
@@ -57,6 +59,20 @@ Por ex, em:
 Chama-se de uso avançado se o jogador possui a ficha. Uma vez que ele possui a ficha, é preciso checar, quando for ser usada a capacidade,
 em que nivel o jogador está. Ele começa no médio, e bonus ou penalidades deslocam em 1 para cima ou para baixo o uso.
 
+Por exemplo, penalidades de saude diminuem o nivel nas capacidades (exceto se a ficha informar que não). Então um personagem com -1 de saúde
+não pode fazer nada em modo livre. Não se considera como incapacidade, mas que, durante a cena de jogo, o problema de saúde faz com que ele falhe.
+No exemplo indicado no modo livre, o jogador que tentar nadar vai tomar -1 de saúde, o que pode ser fatal (qualquer resultado negativo nas
+primais - v seção especifica - vai mata-lo).
+
+A saúde é melhor descrita na seção sobre personagens, mas basicamente ela também varia entre pessima(-2), ruim (-1), media (0), boa(+1) e excelente (+2). 
+Os niveis de saúde ACIMA do médio NÂO SÂO BONUS para todas as capacidades (quando são está descrito na capacidade "varia com a saude", o que quer dizer
+que o nivel inicial do calculo é igual ao nivel de saúde).
+
+As penalidades de saúde no entanto afetam as capacidades. Um jogador então com a saúde pessima tem seu nivel inicial de calculo para todas as
+capacidades considerado pessimo (a mesma coisa para ruim).
+
+Jogadores podem avançar seus niveis basicos de medio pra bom e de bom para excelente, sendo então esses o nivel de inicio de calculo (assim, um
+jogador com natação excelente pode nadar ainda muito bem mesmo com a saude ruim, pode nadar medio com a saude pessima).
 
 ## Primais
 As primais são associadas a caracteristicas como força, inteligencia, carater, etc, e  são representados por cubinhos coloridos 
@@ -202,6 +218,24 @@ Fluxos de balanço falam para qual lado da interação tendem os acontecimentos.
 Exemplos:
 - Reviravolta
 
+## Fichas de Capacidade
 
+    Natação
+     Sorte: Pode subir um nivel (transitorio) mesmo em uso geral.
+     Mente: Cada cubo (permanente) aumenta o nivel em 1 (pode passar de 2)
+     Balanço: Cada cubo (permanente) aumenta o nivel em 1 (pode passar de 2 )
+     
+     Uso:
+     pessimo: -1 de saude, morte é possivel (primais), precisa ser salvo
+                Repete-se nas proxs interações se nao for salvo
+     
+     ruim (geral): vc engole muita agua, -1 saúde, morte é possível (primais)
+     ruim: vc engole agua, -1 de saude é possivel (primais)
+     
+     médio: sem incidentes, exige esforço, nivel de sucesso = 0
+     
+     bom: muito controle e pouco esforço, nivel de sucesso = 1
+     
+     excelente: controle total, quase sem esforço, nivel de sucesso = 2
 
 
