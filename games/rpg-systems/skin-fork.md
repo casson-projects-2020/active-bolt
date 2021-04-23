@@ -21,25 +21,42 @@ O sistema é baseado nos conceitos de <b>capacidades</b>, <b>primais</b>, <b>pad
 
 ## Capacidades
 Todas as coisas que um jogador pode fazer devem estar definidas como <b>capacidades</b>, e deve existir uma ficha explicando como a capacidade funciona. 
-Caso um jogador, durante um jogo, queira fazer algo para o qual não exista uma capacidade em ficha, o mestre e o jogador devem improvisar uma ficha.
+Caso um jogador, durante um jogo, queira fazer algo para o qual não exista uma capacidade, o mestre e o jogador devem improvisar uma ficha.
+
+O jogador tem a capacidade se tiver a ficha, e ele pode comprar fichas durante a montagem do personagem. Se durante o jogo ele tentar fazer
+algo, mas nao tiver a ficha, isso não quer dizer que a ação é impossivel para ele. Nesses casos pega-se uma ficha da caixa e checa-se se ela 
+tem um modo de uso livre, que permite que qualquer um, mesmo quem nao tenha a ficha, tente executar o ato (veja modo livre).
 
 As capacidades devem ser fundamentais, não se deve criar novas capacidades que possam ser representadas por outras existentes (axioma 1).
 
 Então por ex nao se deve criar "cavalgar" e "andar de camelo", mas sim "montar animais" e onde se concordar que conhecimentos diferentes são necessarios
-(como montar um cavalo, um camelo, ou uma aguia gigante, etc) criam-se especializações na ficha (a forma de fazer isso é descrita na seção correspondente).
+(como montar um cavalo, um camelo, ou uma aguia gigante, etc) criam-se especializações na ficha (a forma de fazer isso é descrita na propria ficha).
 
 Outro exemplo: não se deve criar "mecatronica", mas sim o jogador combinar "mecânica" e "eletronica".
 
-As capacidades tem modos de uso:
-- livre
-- avançado
+As capacidades tem modos de uso: pessimo, ruim, medio, bom, excelente. O jogador que tem a ficha começa no "medio".
 
-Nem todas precisam ter modos livres, mas o modo livre significa que não é necessario pagar pelo uso.
+### Modo livre
+Considera-se que qualquer um pode fazer qualquer coisa no nivel "ruim" (ou seja, o jogador que não tem a ficha começa no "ruim"), 
+exceto se na propria ficha isso estiver proibido (o jogador por exemplo
+nao poderia montar um circuito se nao tiver 'eletronica' como ficha propria).
 
-O uso avançado lista quanto deve ser pago para usa-la nessa modalidade. Os usos avançados podem exigir uma ordem de uso, sendo cada vez mais caros, e podem
-ter restrições, como por exemplo nao se pode usar o nivel 2 antes de ter usado o 1 dez vezes (TODO: sera? tem q ter um sistema de evolução consistente em todos?)
+Se o jogador decidir usar o modo livre de alguma ficha, jogar e for bem-sucedido (mestre e jogadores decidem se o uso pode ser chamado 
+de bem-sucedido, mas a palavra final é do mestre) o jogador ganha a ficha (e portanto é considerado com inicio em "medio" a partir dai).
 
-Os jogadores pagam os usos com cubos de primais, e também adquirem capacidades comprando-as com cubos.
+Na ficha deve existir, na area "ruim", a seção "(geral)", e isso indica uso livre. Se ela nao existir, o uso livre é proibido.
+
+Por ex, em:
+    + Natação
+    + ruim (geral): vc engole muita agua, -1 saúde, morte é possível (primais)
+    + ruim: vc engole agua, -1 de saude é possivel (primais)
+
+É permitido então nadar a qualquer um como modo livre da natação, mas existe risco de vida (mais sobre saúde e primais adiante).
+
+### Modo avançado
+Chama-se de uso avançado se o jogador possui a ficha. Uma vez que ele possui a ficha, é preciso checar, quando for ser usada a capacidade,
+em que nivel o jogador está. Ele começa no médio, e bonus ou penalidades deslocam em 1 para cima ou para baixo o uso.
+
 
 ## Primais
 As primais são associadas a caracteristicas como força, inteligencia, carater, etc, e  são representados por cubinhos coloridos 
