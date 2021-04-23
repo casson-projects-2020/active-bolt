@@ -240,13 +240,13 @@ Exemplos:
                 (exceto: Tempo no fluxo ou Fortuna descartada)
      
      ruim (geral): vc engole muita agua, -1 saúde, morte é possível (fluxo)
-     ruim: vc engole agua, -1 de saude é possivel (fluxo)
+     ruim: vc engole agua, -1 de saude é possivel (fluxo), morte somente em -2
      
-     médio: sem incidentes, exige esforço, nivel de sucesso = 0
+     médio: sem incidentes, exige esforço, nivel de sucesso = 0, morte somente abaixo de -2
      
-     bom: muito controle e pouco esforço, nivel de sucesso = 1
+     bom: muito controle e pouco esforço, nivel de sucesso = 1, morte é impossivel
      
-     excelente: controle total, quase sem esforço, nivel de sucesso = 2
+     excelente: controle total, quase sem esforço, nivel de sucesso = 2, morte é impossivel
 
 ### Montar Animais
 
