@@ -292,7 +292,10 @@ Exemplos:
      Uso:
      - Escolha um TIPO de animal, esta ficha deve ser usada somente para a escolha (canideos, felinos, montarias, aves, criaturas
         magicas a parte - canideos magicos, p ex - nao se pode usar "mamiferos")
-     - Para empatia com qualquer outro tipo de animal, a primeira tentativa é uso livre. Em caso de sucesso, replica-se essa ficha para o outro tipo
+     - Para empatia com qualquer outro tipo de animal, a primeira tentativa é uso livre. Em caso de sucesso, 
+        replica-se essa ficha para o outro tipo
+     - Pode-se usar para animais não inteligentes (insetos, aracnideos, peixes), mas eles não obedecerão a nao
+        ser que seja possivel dar a ordem (a criterio do mestre)
      
      pessimo: O animal não tem nenhuma afinidade, e atacará +2 se for selvagem, +1 se domesticado.
                 Morte somente -2
