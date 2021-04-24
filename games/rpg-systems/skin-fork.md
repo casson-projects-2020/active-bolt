@@ -208,6 +208,7 @@ Exemplos:
 - Fim
 - Atraso
 - Pode acabar agora, mas... (-1)
+- Viagem no tempo
 
 #### Destino
 Fluxos de destino falam sobre consequencias duradouras.
@@ -335,3 +336,13 @@ Exemplos:
     excelente: +2 de bonus em saúde
     
     
+## Cartas de Fluxo: Tempo
+
+    Viagem no tempo
+     Se possivel (somente se fizer sentido na historia, decisao exclusiva do Mestre), ocorre uma viagem para o passado ou futuro, que pode durar
+     qualquer intervalo. Apos, o jogador (ou jogadores) retornam exatamente para onde estavam no espaço e no tempo, nas mesmas condições,
+     antes deste fluxo. É possivel trazer objetos na viagem. Todos os efeitos de descontinuidade de tempo se aplicam.
+     
+     Se impossivel, pode ser substituido por uma simples visão do futuro.
+     
+     Se nem isso for possivel, nada acontece.
