@@ -314,3 +314,24 @@ Exemplos:
                 
      Acima: Todos os animais do tipo escolhido tem afinidade e seguem / obedecem cegamente, chegando a gostar muito de voce.
                 
+### Constituição
+
+    Constituição
+    
+    Uso:
+    - Não acompanha penalidades de saude
+    - Se não estiver em pessimo: em qualquer evento que causaria morte, acrescente um cubo de Mal na ficha (permanente)
+    - Cada cubo de Mal reduz o nivel em 1, e só pode ser retirado magicamente ou em descontinuidade de tempo.
+
+    pessimo: morte certa, mesmo sem fluxo
+    
+    ruim: -2 de penalidade em saude
+    ruim (geral): nao permitido
+    
+    medio: +1 de bonus em saude
+    
+    bom: +2 de bonus em saude
+    
+    excelente: +2 de bonus em saúde
+    
+    
