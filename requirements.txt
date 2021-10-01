@@ -2,5 +2,6 @@ numpy
 matplotlib
 shapely
 solidpython
+ipywidgets
+jupyter_contrib_nbextensions
 k3d
-
