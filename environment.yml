@@ -1,9 +1,13 @@
 name: k3d
 channels:
-  - conda-forge
   - defaults
+  - cadquery
+  - conda-forge
 dependencies:
-  - python>=3.6
+  - python>=3.8
+  - pip=21.0
+  - cadquery=2.1
+  - matplotlib=3.3
   - notebook>5.2
   - jupyterlab>1.1
   - ipywidgets
@@ -15,6 +19,8 @@ dependencies:
   - pip:
      - k3d
      - nibabel
-     - matplotlib
      - shapely
      - solidpython
+     - jupyter-cadquery==2.2.0
+     - cadquery-massembly~=0.9
+     - orbitcontrol-patch~=0.1.0
