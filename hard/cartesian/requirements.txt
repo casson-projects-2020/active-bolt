@@ -1,6 +1,0 @@
-numpy
-matplotlib
-shapely
-solidpython
-viewscad
-jupyter_contrib_nbextensions
