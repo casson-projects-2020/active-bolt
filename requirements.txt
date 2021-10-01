@@ -1,7 +1,10 @@
-numpy
+six
+ipywidgets>=7.0.1
+ipydatawidgets
+traittypes
+traitlets
+numpy>=1.11.0
 matplotlib
 shapely
 solidpython
-ipywidgets
-jupyter_contrib_nbextensions
 k3d
