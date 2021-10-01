@@ -6,6 +6,3 @@ jupyter nbextension enable --py --sys-prefix k3d
 jupyter labextension install k3d
 jupyter nbextension install --py --sys-prefix k3d
 
-sudo apt-get update -y
-sudo apt-get install -y libqscintilla2-qt5-dev
-
