@@ -2,18 +2,18 @@
 
 É o nome codigo de um sistema de RPG.
 
-O sistema é baseado em alguns principios:
+O sistema é tem alguns requisitos:
 
-<b>1o axioma - Redução de regras</b><br/>
+<b>1o requisito - Redução de regras</b><br/>
 O número de regras deve ser o menor possivel, desde que isso não reduza a qualidade do jogo
 
-<b>2o axioma - A realidade não precisa ser simplificada</b><br/>
+<b>2o requisito - A realidade não precisa ser simplificada</b><br/>
 As regras não devem simular a realidade, elas devem conduzir o jogo
 
-<b>3o axioma - as regras devem permitir estratégias complexas</b><br/>
+<b>3o requisito - as regras devem permitir estratégias complexas</b><br/>
 Embora poucas, deve ser possível combinar as regras de formas complexas
 
-<b>4o axioma - as regras devem enriquecer o jogo</b><br/>
+<b>4o requisito - as regras devem enriquecer o jogo</b><br/>
 As regras devem ser feitas de forma a auxiliar a criação dos momentos de jogo.
 
 # Regras
