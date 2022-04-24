@@ -33,8 +33,8 @@ Para conquistar a iniciativa, os jogadores apostam pontos de inspiração. Separ
 A quantidade maxima de pontos a apostar é 3 (exceto com bonus / penalidades - bonus podem ser permanentes como forma de indicar poder de oponente ou jogador,
 e nesse caso o limite é maior. O limite de um jogador nao altera o limite do outro).
 
-Os dois revelam a quantidade ao mesmo tempo. Aquele que apostou mais ganha a iniciativa, e descarta os pontos usados naquela partida (numa proxima rodada ele tera
-pontos a menos, mas numa proxima partida pode usar todos os pontos novamente, exceto bonus temporarios, que sao por partida).
+Os dois revelam a quantidade ao mesmo tempo. Aquele que apostou mais ganha a iniciativa, e descarta os pontos usados, com efeito para a partida atual 
+(numa proxima rodada ele tera pontos a menos, mas numa proxima partida pode usar todos os pontos novamente, exceto bonus temporarios, que sao por partida).
 
 O que perdeu nao tem a iniciativa, mas pega os pontos de volta e pode usar na mesma partida.
 
