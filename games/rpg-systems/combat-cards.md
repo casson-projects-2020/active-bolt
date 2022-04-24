@@ -93,6 +93,10 @@ Um jogador iniciante (de "1o nivel" no D20) poderia ter um pool de 1 carta e o p
 Após a rodada cada jogador pode escolher se descarta somente a carta usada ou todas, e novas cartas são tiradas do monte para completar a mao de cartas abertas
 na frente do jogador antes da proxima rodada.
 
+As cartas descartadas são colocadas num monte de descarte. 
+
+Se a pilha de cartas do jogador acabar, ele embaralha a pilha de descarte e forma uma nova pilha de compra de cartas.
+
 ## 6 - Funcionamento basico do sistema
 
 ### Sem iniciativa (simultaneo)
