@@ -58,6 +58,9 @@ vencer aquele que está duas casas atras na lista.
 
 O seguinte grafico explicativo estará em todas as cartas (ou no verso delas):
 
+<img src="./combat_cards.svg">
+
+<img  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjAiIHN0cm9rZT0ib3JhbmdlIiBzdHJva2Utd2lkdGg9IjQiIGZpbGw9InllbGxvdyIgLz48L3N2Zz4=">
 
 ## 5 - Pool
 
