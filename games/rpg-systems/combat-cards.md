@@ -60,8 +60,6 @@ O seguinte grafico explicativo estará em todas as cartas (ou no verso delas):
 
 <img src="./combat_cards.svg">
 
-<img  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjAiIHN0cm9rZT0ib3JhbmdlIiBzdHJva2Utd2lkdGg9IjQiIGZpbGw9InllbGxvdyIgLz48L3N2Zz4=">
-
 ## 5 - Pool
 
 Cada jogador tem uma quantidade de cartas que tira do seu baralho e coloca abertas na sua frente. Esse é o pool de cada jogador. A quantidade de cartas no pool
