@@ -6,7 +6,8 @@ que um sistema de cartas poderia resolver.
 ## 1 - Requisitos
 
 ### 1.1 - Rapido
-Cada rodada tem que ter a possibilidade de ser rapida e deve resolver um topico de um conflito ou problema. Num combate, por exemplo, seria um golpe.
+Cada rodada tem que ter a possibilidade de ser rapida e deve resolver um topico de um conflito ou problema. Num combate, por exemplo, seria um golpe. Um
+conjunto de rodadas é uma partida, e uma partida representa uma cena (por exemplo, todo um combate do inicio ao fim).
 
 ### 1.2 - Bonus e desvantagens tem que poder ser aplicados externamente
 O mestre tem que ter a capacidade de facilitar ou dificultar as jogadas para representar graus de experiencia ou dificuldade.
