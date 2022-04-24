@@ -1,6 +1,6 @@
 # Sistema de resolução de conflito com cartas
 
-Resolução de conflitos, principalmente combates, em RPG são resolvidos normalmente com regras que envolvem dados. Regras com dados apresentam uma serie de problemas 
+Resolução de conflitos, principalmente combates, em RPG são resolvidos normalmente com dados. Regras com dados apresentam uma serie de problemas 
 que um sistema de cartas poderia resolver.
 
 ## 1 - Requisitos
@@ -40,7 +40,8 @@ O que perdeu nao tem a iniciativa, mas pega os pontos de volta e pode usar na me
 
 No empate ambos pegam os pontos de volta e as ações voltam a ser simultaneas, o que cancela a iniciativa de um jogador que ja a tenha por algum motivo.
 
-O jogador que tem a iniciativa joga DEPOIS (ele pode ver a jogada do adversario primeiro e escolher as cartas depois).
+O jogador que tem a iniciativa joga DEPOIS (ele pode ver a jogada do adversario primeiro e escolher as cartas depois), mas considera-se apos a sua jogada que 
+sua ação ocorre ANTES da do adversário.
 
 ## 4 - Cartas
 
@@ -48,7 +49,14 @@ Cada carta tem um simbolo, e o conjunto deles funciona como pedra-papel-tesoura,
 
 Os elementos vencem uns aos outros, em ataque, nessa ordem, e metal vence a agua.
 
-No entanto, pode-se deixar as cartas na horizontal (tap) e elas entram em modo de defesa, e ai os elementos vencem uns aos outros na ordem reversa.
+No entanto, pode-se deixar as cartas na horizontal (tap) e elas entram em modo de defesa, e ai os elementos vencem uns aos outros na ordem reversa, e a agua 
+vence o metal.
+
+Existe também a relação de dominação, em q um elemento vence aquele que esta duas casas adiante na lista (e no tap, da mesma forma, a relação se inverte para 
+vencer aquele que está duas casas atras na lista.
+
+O seguinte grafico explicativo estará em todas as cartas (ou no verso delas):
+
 
 ## 5 - Pool
 
@@ -56,6 +64,7 @@ Cada jogador tem uma quantidade de cartas que tira do seu baralho e coloca abert
 também pode ser usada para bonus / penalidade temporarios e representa experiencia / força. Não se pode ter pool menor do que 1 carta.
 
 Um jogador iniciante (de "1o nivel" no D20) poderia ter um pool de 1 carta e o pool pode ir aumentando com a experiencia.
+
 
 
 
