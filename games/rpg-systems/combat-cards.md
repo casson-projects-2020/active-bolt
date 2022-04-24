@@ -29,7 +29,10 @@ Essa é uma forma de atender o requisito de vantagem / desvantagem: a quantidade
 
 Na primeira rodada as ações seriam simultaneas, a nao ser que um ou os dois jogadores queiram conquistar a iniciativa.
 
-Para conquistar a iniciativa, os jogadores apostam pontos de inspiração. Separa-se na mão sem deixar o adversario perceber quantos pontos se quer apostar.
+Para conquistar a iniciativa, os jogadores apostam pontos de inspiração. Se um dos jogadores somente quiser a iniciativa, somente ele pode receber a 
+iniciativa, o outro jogador, mesmo que vença, apenas mantem as ações simultaneas (mas não perde os pontos de inspiração usados).
+
+Separa-se na mão sem deixar o adversario perceber quantos pontos se quer apostar.
 
 A quantidade maxima de pontos a apostar é 3 (exceto com bonus / penalidades - bonus podem ser permanentes como forma de indicar poder de oponente ou jogador,
 e nesse caso o limite é maior. O limite de um jogador nao altera o limite do outro).
@@ -59,7 +62,6 @@ vencer aquele que está duas casas atras na lista.
 O seguinte grafico explicativo estará em todas as cartas (ou no verso delas):
 
 <img src="./combat_cards.svg">
-
 ## 5 - Pool
 
 Cada jogador tem uma quantidade de cartas que tira do seu baralho e coloca abertas na sua frente. Esse é o pool de cada jogador. A quantidade de cartas no pool
@@ -67,7 +69,55 @@ também pode ser usada para bonus / penalidade temporarios e representa experien
 
 Um jogador iniciante (de "1o nivel" no D20) poderia ter um pool de 1 carta e o pool pode ir aumentando com a experiencia.
 
+## 6 - Funcionamento basico do sistema
 
+### Sem iniciativa (simultaneo)
+
+Os jogadores colocam tokens de escolha, virados pra baixo, sobre as cartas, sem deixar o adversario ver. Apenas um dos tokens indica "carta escolhida".
+
+Os tokens são virados e as cartas escolhidas produzem efeito.
+
+### Com iniciativa 
+
+O jogador sem iniciativa indica a carta que escolheu, e tem que escolher ataque ou defesa (tap) antes do outro também.
+
+O jogador com iniciativa joga em seguida.
+
+### Efeitos
+
+As cartas vencem de acordo com o diagrama de geração / dominação, e modificadores. Cartas iguais empatam.
+
+Vencer a rodada tem as implicaçõesda regra do jogo que se esteja usando (por exemplo, causar dano no adversario, com todas as regras que se aplicarem -
+redução de dano, p ex).
+
+Se as duas cartas são de defesa, ocorre empate automatico, nao importando as relacoes entre as cartas.
+
+Se uma delas é de defesa, ela pode defender somente a geracao e a dominicação. Por exemplo, se um jogador ataca com branco, ele pode ser defendido
+somente por amarelo ou vermelho. No caso de defesa, pode-se considerar que o ataque falha, ou que tem menor efeito, de acordo com o que se quiser fazer
+no jogo.
+
+Se as duas cartas são de ataque, pode-se considerar que o efeito do ataque vencedor é maior e do perdedor menor, ou considerar que somente o ataque vencedor
+ocorre, de acordo com o que se quiser fazer no jogo.
+
+## 6 - Pontos de reforço
+
+No inicio de cada partida os jogadores ganham pontos de reforço. Os pontos são coloridos, cada um representando um elemento das cartas.
+
+O padrão é ganhar um ponto de cada cor, mas isso também pode ser usado para modificar com bonus / penalidades, e também representar experiencia e poder.
+
+O jogador pode fazer algumas coisas com os pontos de reforço:
+
+### Reforçar uma carta
+
+Qualquer numero de pontos (todos da mesma cor que a cor da carta) podem ser acrescentados numa carta. Isso tem os seguintes efeitos:
+
+#### Cartas iguais
+
+Quantidade maior de pontos dá a vitoria para uma carta
+
+#### Cartas diferentes
+
+A relação de dominação se inverte e passa a ser de contra-dominação (as setas que vão de 2 em 2 no ataque passam a ser iguais a da defesa
 
 
 
