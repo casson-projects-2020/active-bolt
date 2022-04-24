@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 200 360" width="200" height="360" xmlns="http://www.w3.org/2000/svg">
+<!--  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 @keyframes bounce {
@@ -26,5 +26,51 @@ h1 {
       </style>
       <h1>Hello, world</h1>
     </div>
-  </foreignObject>
+  </foreignObject> -->
+  
+  <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="95" cy="45" fill="#000000" id="svg_1" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="141.5" cy="76.5" fill="#00ff00" id="svg_5" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="124.5" cy="134.5" fill="#ff0000" id="svg_6" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="64.5" cy="132.5" fill="#ffff00" id="svg_8" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="46.5" cy="76.5" fill="#ffffff" id="svg_9" rx="15" ry="15" stroke="#000000"/>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_10" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(35.1453 128.605 46.5274) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="37.94" xml:space="preserve" y="67.07">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_12" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-179.605 92.9587 148.663) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-16.77" xml:space="preserve" y="213.57">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_13" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-107.508 39.6746 108.908) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-99.06" xml:space="preserve" y="155.89">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_14" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-35.1011 60.635 45.8465) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-66.38" xml:space="preserve" y="66.1">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_18" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(107.729 148.613 109.071) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="69.03" xml:space="preserve" y="156.43">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_25" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.363971 1.07003 -0.66149 0.225006 244.372 -176.181)" x="190.07" xml:space="preserve" y="316.69">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_27" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.365901 -1.06937 0.661083 0.226201 -154.522 296.257)" x="245.7" xml:space="preserve" y="232.97">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_28" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(1.13022 0.00654654 -0.0040479 0.6987 -84.7488 -139.914)" x="166.47" xml:space="preserve" y="320.72">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_29" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(-0.901928 0.68115 -0.421085 -0.55757 539.43 82.6828)" x="326.19" xml:space="preserve" y="362.82">→</text>
+  <line fill="none" id="svg_30" points="null" stroke="#000000" stroke-width="1.5" x1="77.64" x2="62" y1="76.67" y2="76.62"/>
+  <line fill="none" id="svg_31" stroke="#000000" stroke-width="1.5" x1="104.05" x2="99.15" y1="72.14" y2="57.73"/>
+  <line fill="none" id="svg_32" stroke="#000000" stroke-width="1.5" x1="116.59" x2="129.27" y1="94.75" y2="85.53"/>
+  <line fill="none" id="svg_33" stroke="#000000" stroke-width="1.5" x1="98.04" x2="111.59" y1="115.73" y2="126.1"/>
+  <line fill="none" id="svg_34" stroke="#000000" stroke-width="1.5" x1="73.67" x2="69.63" y1="106.14" y2="117.96"/>
+  <ellipse cx="94.38" cy="191.94" fill="#000000" id="svg_54" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="140.88" cy="223.44" fill="#ffffff" id="svg_53" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="123.88" cy="281.44" fill="#ffff00" id="svg_52" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="63.88" cy="279.44" fill="#ff0000" id="svg_51" rx="15" ry="15" stroke="#000000"/>
+  <ellipse cx="45.88" cy="223.44" fill="#00ff00" id="svg_50" rx="15" ry="15" stroke="#000000"/>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_49" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(35.1453 127.984 193.459) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="37" xml:space="preserve" y="277.37">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_48" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-179.605 92.3728 294.068) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-17.71" xml:space="preserve" y="423.87">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_47" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-107.508 38.4367 255.902) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-100.01" xml:space="preserve" y="366.18">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_46" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-35.1011 60.0236 192.778) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="-67.32" xml:space="preserve" y="276.39">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_45" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(107.729 148.528 256.29) matrix(0.651472 0 0 0.698711 103.882 11.0365)" x="68.08" xml:space="preserve" y="366.73">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_44" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.363971 1.07003 -0.66149 0.225006 244.372 -176.181)" x="312.98" xml:space="preserve" y="385.25">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_42" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.365901 -1.06937 0.661083 0.226201 -40.5221 343.257)" x="129.75" xml:space="preserve" y="124.07">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_41" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) rotate(-69.2275 101.429 220.798) matrix(0.39472 1.05907 -0.654717 0.244015 235.182 -176.499)" x="287.83" xml:space="preserve" y="394.09">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_40" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(-0.901928 0.68115 -0.421085 -0.55757 539.43 82.6828)" x="405.13" xml:space="preserve" y="195.73">→</text>
+  <line fill="none" id="svg_39" points="null" stroke="#000000" stroke-width="1.5" x1="77.02" x2="61.39" y1="223.61" y2="223.56"/>
+  <line fill="none" id="svg_38" stroke="#000000" stroke-width="1.5" x1="103.43" x2="98.53" y1="219.07" y2="204.66"/>
+  <line fill="none" id="svg_37" stroke="#000000" stroke-width="1.5" x1="115.97" x2="128.66" y1="241.69" y2="232.46"/>
+  <line fill="none" id="svg_36" stroke="#000000" stroke-width="1.5" x1="97.42" x2="110.97" y1="262.66" y2="273.04"/>
+  <line fill="none" id="svg_35" stroke="#000000" stroke-width="1.5" x1="73.05" x2="69.01" y1="253.08" y2="264.89"/>
+  <text fill="#000000" font-family="Serif" font-size="32" id="svg_55" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="94.52" xml:space="preserve" y="100.69">A</text>
+  <text fill="#000000" font-family="Serif" font-size="32" id="svg_56" stroke="#000000" stroke-width="0" text-anchor="middle" x="94.55" xml:space="preserve" y="249.5">D</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_57" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-72.8523 76.7796 103.898) matrix(0.365901 -1.06937 0.661083 0.226201 -154.522 296.257)" x="227.28" xml:space="preserve" y="240.32">→</text>
+  <text fill="#000000" font-family="Serif" font-size="48" font-weight="normal" id="svg_59" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-74.2244 75.4237 251.017) matrix(0.365901 -1.06937 0.661083 0.226201 -40.5221 343.257)" x="110.43" xml:space="preserve" y="130.5">→</text>
+ </g>
 </svg>
