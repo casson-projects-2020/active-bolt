@@ -128,7 +128,7 @@ Se as duas cartas são de ataque, pode-se considerar que o efeito do ataque venc
 ocorre, de acordo com o que se quiser fazer no jogo. Por exemplo, um ataque de uma carta de fogo vence um ataque de terra ou de ar (vence o de terra, e domina
 o de ar, que quer dizer somente que vence o de ar também - apenas terminologia).
 
-## 6 - Pontos de reforço
+## 7 - Pontos de reforço
 
 No inicio de cada partida os jogadores ganham pontos de reforço. Os pontos são coloridos, cada um representando um elemento das cartas.
 
@@ -140,7 +140,7 @@ Os pontos podem voltar para o pool ou serem capturados pelo vencedor apos uma ro
 
 O vencedor pode pegar os pontos nas cartas vencidas se quiser e acrescentar no proprio pool de pontos da partida, mas cede a iniciativa se quiser fazer isso.
 
-Se um dos jogadores tem a iniciativa, o adversario tem que coloca abertamente os pontos de reforço que quiser na carta que vai usar, e o jogador com a iniciativa
+Se um dos jogadores tem a iniciativa, o adversario tem que colocar abertamente os pontos de reforço que quiser na carta que vai usar, e o jogador com a iniciativa
 escolhe a propria carta e coloca pontos de reforço nela apos a escolha do adversário.
 
 Se ninguem tem a iniciativa na rodada, coloca-se pontos de reforço atras de um shield, sem q o adversario perceba que cor e quantos pontos foram usados. Os pontos
@@ -175,7 +175,7 @@ Conta-se a diferença de pontos, entao uma carta com dois pontos permite usar o 
 
 Pode-se virar uma carta (fecha-la, deixar com face para baixo) e colocar um ponto ou mais da mesma cor, e a carta se torna uma daquele tipo.
 
-## 7 - Apostas
+## 8 - Apostas
 
 Por fim, os jogadores podem apostar pontos de inspiração ou de reforço. Colocam-se qualquer quantidade de qualquer tipo de pontos separado das cartas
 e aposta-se em alguma coisa. Por exemplo, "aposto que vou vencer" (pode-se apostar na propria derrota também).
@@ -202,7 +202,7 @@ de cada um retomam para os donos originais.
 ### Apostas duplas
 É possível que ambos os jogadores queiram apostar em coisas diferentes, e nesse caso existirão duas apostas em curso.
 
-## 8 - Regras para mais de dois jogadores
+## 9 - Regras para mais de dois jogadores
 
 Caso tenhamos algo como dois jogadores contra um, pode-se adaptar as regras como se achar melhor. Por exemplo, uma carta que vence um dos jogadores mas perde de 
 outro pode ser entendida como que o jogador atingiu um dos adversarios, mas foi atingido por outro. Ou ele pode usar duas cartas em vez de uma, tentanto jogar contra
@@ -211,6 +211,9 @@ os dois, e nesse caso pode-se dar alguma penalidade nas cartas.
 Pode-se optar por o jogador em desvantagem ter q escolher um dos dois pra jogar, e nesse caso perde automaticante do outro, mas joga sem penalidade.
 
 Ou pode-se optar por permitir ao jogador em desvantagem uma rodada contra cada atacante, com alguma penalidade, etc. Aquilo que se adaptar melhor ao jogo.
+
+Um ataque de area pode ser um ataque unico de um dos jogadores, e cada outro jogador na area joga contra aquela carta, e os efeitos sobre cada um dependem do
+resultado. Nesse caso, nao se consideram efeitos em que se rouba pontos dos perdedores.
 
 Pode-se ter nesse caso 3 apostas na mesa, e cada uma das apostas pode ser aceita pelos outros dois, aceita somente por um, ou recusada pelos outros dois. Uma
 aposta da a iniciativa somente se for recusada por todos os demais e ocorrer a condição.
