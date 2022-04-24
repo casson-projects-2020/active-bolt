@@ -25,6 +25,10 @@ Alem das cartas outros itens fazem parte do sistema. Cada pessoa possui uma quan
 Essa é uma forma de atender o requisito de vantagem / desvantagem: a quantidade de pontos aumenta com a experiencia do jogador, e pode ser penalizada
 (ex: penalidade de -2 pontos faz o jogador ter q usar 2 pontos a menos do que tem, bonus temporario de 2 pontos faz o jogador poder usar 2 a mais). 
 
+Os pontos de inspiração podem ser usados para conquistar a iniciativa, ou para comprar pontos de reforço.
+
+Para comprar pontos de reforço, o jogador em qualquer momento descarta um deles e pega um ponto de reforço de qualquer cor.
+
 ## 3 - Iniciativa
 
 Na primeira rodada as ações seriam simultaneas, a nao ser que um ou os dois jogadores queiram conquistar a iniciativa.
@@ -128,6 +132,12 @@ Os pontos podem voltar para o pool ou serem capturados pelo vencedor apos uma ro
 
 O vencedor pode pegar os pontos nas cartas vencidas se quiser e acrescentar no proprio pool de pontos da partida, mas cede a iniciativa se quiser fazer isso.
 
+Se um dos jogadores tem a iniciativa, o adversario tem que coloca abertamente os pontos de reforço que quiser na carta que vai usar, e o jogador com a iniciativa
+escolhe a propria carta e coloca pontos de reforço nela apos a escolha do adversário.
+
+Se ninguem tem a iniciativa na rodada, coloca-se pontos de reforço atras de um shield, sem q o adversario perceba que cor e quantos pontos foram usados. Os pontos
+escolhidos modificam a carta com o token de escolha.
+
 O jogador pode fazer algumas coisas com os pontos de reforço:
 
 ### Reforçar uma carta
@@ -189,6 +199,10 @@ de cada um retomam para os donos originais.
 Caso tenhamos algo como dois jogadores contra um, pode-se adaptar as regras como se achar melhor. Por exemplo, uma carta que vence um dos jogadores mas perde de 
 outro pode ser entendida como que o jogador atingiu um dos adversarios, mas foi atingido por outro. Ou ele pode usar duas cartas em vez de uma, tentanto jogar contra
 os dois, e nesse caso pode-se dar alguma penalidade nas cartas.
+
+Pode-se optar por o jogador em desvantagem ter q escolher um dos dois pra jogar, e nesse caso perde automaticante do outro, mas joga sem penalidade.
+
+Ou pode-se optar por permitir ao jogador em desvantagem uma rodada contra cada atacante, com alguma penalidade, etc. Aquilo que se adaptar melhor ao jogo.
 
 Pode-se ter nesse caso 3 apostas na mesa, e cada uma das apostas pode ser aceita pelos outros dois, aceita somente por um, ou recusada pelos outros dois. Uma
 aposta da a iniciativa somente se for recusada por todos os demais e ocorrer a condição.
