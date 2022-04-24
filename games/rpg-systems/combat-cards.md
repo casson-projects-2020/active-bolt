@@ -29,6 +29,10 @@ Os pontos de inspiração podem ser usados para conquistar a iniciativa, ou para
 
 Para comprar pontos de reforço, o jogador em qualquer momento descarta um deles e pega um ponto de reforço de qualquer cor.
 
+Pode-se escolher dar uma quantidade de pontos de inspiração por partida, e cada jogador teria direito a quma certa quantidade, de acordo com sua
+experiancia / poder, e/ou permitir que se coletem pontos de inspiração de uso unico durante o jogo, com algum limite - o que for melhor para o
+jogo.
+
 ## 3 - Iniciativa
 
 Na primeira rodada as ações seriam simultaneas, a nao ser que um ou os dois jogadores queiram conquistar a iniciativa.
