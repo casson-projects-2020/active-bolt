@@ -82,6 +82,9 @@ também pode ser usada para bonus / penalidade temporarios e representa experien
 
 Um jogador iniciante (de "1o nivel" no D20) poderia ter um pool de 1 carta e o pool pode ir aumentando com a experiencia.
 
+Após a rodada cada jogador pode escolher se descarta somente a carta usada ou todas, e novas cartas são tiradas do monte para completar a mao de cartas abertas
+na frente do jogador antes da proxima rodada.
+
 ## 6 - Funcionamento basico do sistema
 
 ### Sem iniciativa (simultaneo)
@@ -156,4 +159,37 @@ Pode-se virar uma carta (fecha-la, deixar com face para baixo) e colocar um pont
 
 ## 7 - Apostas
 
-Por fim, os jogadores podem apostar pontos de inspiração ou de reforço. Colocam-se qualquer quantidade de pontos
+Por fim, os jogadores podem apostar pontos de inspiração ou de reforço. Colocam-se qualquer quantidade de qualquer tipo de pontos separado das cartas
+e aposta-se em alguma coisa. Por exemplo, "aposto que vou vencer" (pode-se apostar na propria derrota também).
+
+O outro jogador pode aceitar ou recusar a aposta. 
+
+### Aposta recusada
+Se uma aposta é recusada, mas o que se apostou acontece, o jogador que fez a aposta ganha a iniciativa e retoma os pontos apostados.
+
+Se uma aposta é recusada, mas o que se apostou não acontece, o jogador que fez a aposta não ganha nada e retoma os pontos apostados.
+
+### Aposta aceita
+O outro jogador coloca a mesma quantidade de pontos (mas nao precisam ser iguais - um ponto de inspiração pode ser aceito por um ponto de reforço, ponto
+de reforço de uma cor pode ser aceito com de outra cor ou de inspiração, etc - nas apostas todo os pontos de qualquer tipo valem somente "um ponto de aposta".
+
+O jogador que aceita a aposta automaticamente está apostando no oposto do que foi apostado.
+
+Aquele que vence pega todos os pontos apostados.
+
+### Empate
+É possivel que uma aposta, se for algo complexo relacionado com o jogo por exemplo, não possa ser considerada nem vencida nem perdida. Nesse caso os pontos
+de cada um retomam para os donos originais.
+
+### Apostas duplas
+É possível que ambos os jogadores queiram apostar em coisas diferentes, e nesse caso existirão duas apostas em curso.
+
+## 8 - Regras para mais de dois jogadores
+
+Caso tenhamos algo como dois jogadores contra um, pode-se adaptar as regras como se achar melhor. Por exemplo, uma carta que vence um dos jogadores mas perde de 
+outro pode ser entendida como que o jogador atingiu um dos adversarios, mas foi atingido por outro. Ou ele pode usar duas cartas em vez de uma, tentanto jogar contra
+os dois, e nesse caso pode-se dar alguma penalidade nas cartas.
+
+Pode-se ter nesse caso 3 apostas na mesa, e cada uma das apostas pode ser aceita pelos outros dois, aceita somente por um, ou recusada pelos outros dois. Uma
+aposta da a iniciativa somente se for recusada por todos os demais e ocorrer a condição.
+
