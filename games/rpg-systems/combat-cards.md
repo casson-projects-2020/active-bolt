@@ -120,7 +120,7 @@ redução de dano, p ex).
 
 Se as duas cartas são de defesa, ocorre empate automatico, nao importando as relacoes entre as cartas.
 
-Se uma delas é de defesa, ela pode defender somente a geracao e a dominicação. Por exemplo, se um jogador ataca com branco, ele pode ser defendido
+Se uma delas é de defesa, ela pode defender somente a geracao e a dominação. Por exemplo, se um jogador ataca com branco, ele pode ser defendido
 somente por amarelo ou vermelho. No caso de defesa, pode-se considerar que o ataque falha, ou que tem menor efeito, de acordo com o que se quiser fazer
 no jogo.
 
