@@ -65,7 +65,7 @@ No empate ambos pegam os pontos de volta e as ações voltam a ser simultaneas, 
 
 ### Efeito da iniciativa
 O jogador que tem a iniciativa joga DEPOIS (ele pode ver a jogada do adversario primeiro e escolher as cartas depois), mas considera-se apos a sua jogada que 
-sua ação ocorre ANTES da do adversário.
+sua ação ocorre ANTES da do adversário (apenas para efeito de jogo, nestas regras isso não tem efeito).
 
 ## 4 - Cartas
 
