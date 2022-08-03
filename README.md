@@ -13,3 +13,7 @@ http://mybinder.org/v2/gh/casson-projects-2020/active-bolt/master?filepath=ref/s
 ou
 
 http://mybinder.org/v2/gh/casson-projects-2020/active-bolt/master?filepath=3d_engines_essays/skin-fork-3D.ipynb
+
+https://hub.gke2.mybinder.org/user/casson-projects-2020-active-bolt-yjdkb4pd/notebooks/cad/tutorial_jupyterCAD.ipynb
+
+
