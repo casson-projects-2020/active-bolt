@@ -3,7 +3,7 @@ channels:
   - cadquery
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.9
   - pip=21.0
   - cadquery=2.1
   - matplotlib=3.3
@@ -12,4 +12,6 @@ dependencies:
     - jupyter-cadquery==2.2.0
     - cadquery-massembly~=0.9
     - orbitcontrol-patch~=0.1.0
+    - pyvista
+    - descartes
 
