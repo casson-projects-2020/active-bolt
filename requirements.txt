@@ -8,3 +8,5 @@ matplotlib
 shapely
 solidpython
 k3d
+descartes
+pyvista
