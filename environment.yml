@@ -5,7 +5,6 @@ channels:
 dependencies:
   - python=3.9
   - pip=21.0
-  - cadquery=2.1
   - matplotlib=3.3
   - pip:
     - shapely
