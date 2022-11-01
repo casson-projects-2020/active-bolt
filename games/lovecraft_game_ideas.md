@@ -33,6 +33,8 @@
 
 ## 6 - Regras
 
+- em todas as partidas, sem que os jogadores saibam, um culto tenta acordar um dos Antigos. É preciso descobrir quem sao, como eles o farao,
+   e impedi-los.
 - Todas as noites os jogadores podem usar todo o tabuleiro, incluindo dreams. Durante a noite, para um jogador que dorme, Dreamland se extende e cobre o "mundo acordado". 
 - Um jogador acordado nao pode ver os que estejam em Dreamlands, mesmo q o q esta nas Dreamlands esteja adjacente.
 - Um jogador nas dreamlands pode ver os acordados, mas a interacao com eles é limitada (interacao maior pode ser um poder / skill / bonus de algo?)
