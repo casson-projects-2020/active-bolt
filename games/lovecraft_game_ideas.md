@@ -28,3 +28,9 @@
 - Um jogador nas dreamlands pode ver os acordados, mas a interacao com eles é limitada (interacao maior pode ser um poder / skill / bonus de algo?)
 - alguns monstros tem as mesmas restricoes que humanos, outros existem em ambos os mundos (logo podem interagir com entidades dentro e fora das dreamlands) e outros existem somente nas dreamlands
 - jogadores podem ser forçados para dentro das dreamlands por alguma circunstancia: sensibilidade à luz da lua causada por um monstro, por ex.
+- Uma versao super simples do wavefunction collapse (algoritmo de desenho) para criar os tabuleiros?
+
+## 6 - TODOs
+
+- Como indicar qual parte do tabuleiro é mundo real, qual é dreamland, e a profundidade dentro das dreamlands?
+- 
