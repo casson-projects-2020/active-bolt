@@ -1,11 +1,13 @@
 channels:
   - defaults
   - cadquery
-#  - conda-forge
+  - conda-forge
 dependencies:
-#  - python=3.9
+#  - python=3.10
 #  - pip=21.0
 #  - matplotlib=3.3
+  - occt=7.7.0
+  - cadquery
   - pip:
     - shapely
 #    - jupyter-cadquery==2.2.0
@@ -16,5 +18,4 @@ dependencies:
 #    - pythreejs
 #    - petrify
     - descartes
-    - cadquery
 
