@@ -18,5 +18,5 @@ dependencies:
 #    - pythreejs
 #    - petrify
     - descartes
-    - numpy
+    
 
